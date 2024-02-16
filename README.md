@@ -14,11 +14,4 @@ You should output the name of the starting and ending cities, the number of gall
 
 
 
-Here’s a sample interaction with the user:
-
-Enter city you are leaving from: denver
-Enter city you are driving to: jacksonville
-Enter distance in miles: 1748
-Enter miles per gallon your car gets: 34
-Enter the number of gallons your car's tank holds: 15.3
-Your trip from Denver to Jacksonville will require 51.4 gallons of gas. Assuming your gas tank is full when you leave, you will need to stop to fill up 3 times.
+FINAL GRADE: 100% (25/25)
