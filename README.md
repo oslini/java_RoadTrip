@@ -14,4 +14,3 @@ You should output the name of the starting and ending cities, the number of gall
 
 
 
-FINAL GRADE: 100% (25/25)
